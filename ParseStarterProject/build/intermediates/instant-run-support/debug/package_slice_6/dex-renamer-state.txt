@@ -1,0 +1,4 @@
+#Sat Dec 23 04:20:24 EST 2017
+base.0=/home/league95/AndroidStudioProjects/whatsAppClone/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
